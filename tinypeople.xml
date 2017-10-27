@@ -1,0 +1,35 @@
+ <people>
+ <person id="0004">
+        <firstname>Herbert</firstname>
+        <lastname>Ballerina</lastname>
+        <birthdate>1996-01-10</birthdate>
+        <activitypreference id="97">
+            <name>Shooping</name>
+            <description>Shooping with friends</description>
+            <place>Bren Center</place>
+            <startdate>2017-10-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+     <person id="0005">
+        <firstname>Riccardino</firstname>
+        <lastname>Fuffolo</lastname>
+        <birthdate>1945-012-20</birthdate>
+        <activitypreference id="96">
+            <name>Playing videogames</name>
+            <description>Playing videogames in the living room</description>
+            <place>Some living room</place>
+            <startdate>2017-01-23T11:50:01.0</startdate>
+        </activitypreference>
+    </person>
+     <person id="0006">
+        <firstname>Marino</firstname>
+        <lastname>Sale</lastname>
+        <birthdate>1994-08-08</birthdate>
+        <activitypreference id="100">
+            <name>Running</name>
+            <description>Running to the Park</description>
+            <place>Gocciadoro</place>
+            <startdate>2017-10-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+</people>

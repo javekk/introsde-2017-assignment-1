@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<people>
+    <person id="0001">
+        <firstname>Bond R.</firstname>
+        <lastname>Martin</lastname>
+        <birthdate>1984-09-20</birthdate>
+        <activitypreference id="100">
+            <name>Running</name>
+            <description>Running to the Park</description>
+            <place>Gocciadoro</place>
+            <startdate>2017-12-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+     <person id="0002">
+        <firstname>Sandrone</firstname>
+        <lastname>Lagodigarda</lastname>
+        <birthdate>1951-03-23</birthdate>
+        <activitypreference id="99">
+            <name>Walking</name>
+            <description>Walking in the woods</description>
+            <place>Some wood</place>
+            <startdate>2017-10-23T11:51:00.0</startdate>
+        </activitypreference>
+    </person>
+     <person id="0003">
+        <firstname>Mario</firstname>
+        <lastname>Mario</lastname>
+        <birthdate>1981-11-24</birthdate>
+        <activitypreference id="98">
+            <name>Playing football</name>
+            <description>Playing football with friends</description>
+            <place>San Siro</place>
+            <startdate>2017-02-11T11:53:00.0</startdate>
+        </activitypreference>
+    </person>
+     <person id="0004">
+        <firstname>Herbert</firstname>
+        <lastname>Ballerina</lastname>
+        <birthdate>1996-01-10</birthdate>
+        <activitypreference id="97">
+            <name>Shooping</name>
+            <description>Shooping with friends</description>
+            <place>Bren Center</place>
+            <startdate>2017-10-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+     <person id="0005">
+        <firstname>Riccardino</firstname>
+        <lastname>Fuffolo</lastname>
+        <birthdate>1945-012-20</birthdate>
+        <activitypreference id="96">
+            <name>Playing videogames</name>
+            <description>Playing videogames in the living room</description>
+            <place>Some living room</place>
+            <startdate>2017-01-23T11:50:01.0</startdate>
+        </activitypreference>
+    </person>
+     <person id="0006">
+        <firstname>Marino</firstname>
+        <lastname>Sale</lastname>
+        <birthdate>1994-08-08</birthdate>
+        <activitypreference id="100">
+            <name>Running</name>
+            <description>Running to the Park</description>
+            <place>Gocciadoro</place>
+            <startdate>2017-10-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+     <person id="0007">
+        <firstname>Lath</firstname>
+        <lastname>Latte</lastname>
+        <birthdate>1936-12-23</birthdate>
+        <activitypreference id="95">
+            <name>Drinking</name>
+            <description>Drink a lot of liquids</description>
+            <place>Any place</place>
+            <startdate>2017-01-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+     <person id="0008">
+        <firstname>Bobby</firstname>
+        <lastname>Fatina</lastname>
+        <birthdate>1974-02-09</birthdate>
+        <activitypreference id="99">
+            <name>Walking</name>
+            <description>Walking in the woods</description>
+            <place>Some wood</place>
+            <startdate>2017-10-23T11:51:00.0</startdate>
+        </activitypreference>
+    </person>
+     <person id="0009">
+        <firstname>Marione</firstname>
+        <lastname>Donnola</lastname>
+        <birthdate>1989-07-10</birthdate>
+        <activitypreference id="100">
+            <name>Running</name>
+            <description>Running to the Park</description>
+            <place>Gocciadoro</place>
+            <startdate>2017-10-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+     <person id="0010">
+        <firstname>Rina</firstname>
+        <lastname>Ca</lastname>
+        <birthdate>1978-12-31</birthdate>
+        <activitypreference id="96">
+            <name>Playing videogames</name>
+            <description>Playing videogames in the living room</description>
+            <place>Some living room</place>
+            <startdate>2017-01-23T11:50:01.0</startdate>
+        </activitypreference>
+    </person>
+     <person id="0011">
+        <firstname>Max</firstname>
+        <lastname>Power</lastname>
+        <birthdate>1978-06-25</birthdate>
+        <activitypreference id="100">
+            <name>Running</name>
+            <description>Running to the Park</description>
+            <place>Gocciadoro</place>
+            <startdate>2017-10-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+     <person id="0012">
+        <firstname>Gianno</firstname>
+        <lastname>De Gasperi</lastname>
+        <birthdate>1954-02-21</birthdate>
+        <activitypreference id="96">
+            <name>Playing videogames</name>
+            <description>Playing videogames in the living room</description>
+            <place>Some living room</place>
+            <startdate>2017-01-23T11:50:01.0</startdate>
+        </activitypreference>
+    </person>
+     <person id="0013">
+        <firstname>Maddalleno</firstname>
+        <lastname>Di Maria</lastname>
+        <birthdate>1914-02-20</birthdate>
+        <activitypreference id="100">
+            <name>Running</name>
+            <description>Running to the Park</description>
+            <place>Gocciadoro</place>
+            <startdate>2017-10-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+     <person id="0014">
+        <firstname>Regione</firstname>
+        <lastname>Lombardia</lastname>
+        <birthdate>1954-11-12</birthdate>
+        <activitypreference id="94">
+            <name>Driving</name>
+            <description>Driving in the traffic of the city</description>
+            <place>Trento center</place>
+            <startdate>2017-08-13T08:50:00.0</startdate>
+        </activitypreference>
+    </person>
+     <person id="0015">
+        <firstname>MaryJane</firstname>
+        <lastname>Carl</lastname>
+        <birthdate>1989-11-12</birthdate>
+        <activitypreference id="100">
+            <name>Running</name>
+            <description>Running to the Park</description>
+            <place>Gocciadoro</place>
+            <startdate>2017-10-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+     <person id="0016">
+        <firstname>Rob</firstname>
+        <lastname>Stark</lastname>
+        <birthdate>1989-11-12</birthdate>
+        <activitypreference id="93">
+            <name>Riding</name>
+            <description>Riding in the Park</description>
+            <place>Gocciadoro</place>
+            <startdate>2017-10-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+     <person id="0017">
+        <firstname>Saarah</firstname>
+        <lastname>Dessert</lastname>
+        <birthdate>1999-01-01</birthdate>
+        <activitypreference id="93">
+            <name>Riding</name>
+            <description>Riding in the Park</description>
+            <place>Gocciadoro</place>
+            <startdate>2017-10-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+     <person id="0018">
+        <firstname>John</firstname>
+        <lastname>Giovanni</lastname>
+        <birthdate>1984-09-20</birthdate>
+        <activitypreference id="97">
+            <name>Shooping</name>
+            <description>Shooping with friends</description>
+            <place>Bren Center</place>
+            <startdate>2017-10-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+     <person id="0019">
+        <firstname>Borys</firstname>
+        <lastname>Radckhenko</lastname>
+        <birthdate>1993-08-20</birthdate>
+        <activitypreference id="100">
+            <name>Running</name>
+            <description>Running to the Park</description>
+            <place>Gocciadoro</place>
+            <startdate>2017-10-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+     <person id="0020">
+        <firstname>Luffy D.</firstname>
+        <lastname>Monkey</lastname>
+        <birthdate>1991-09-20</birthdate>
+        <activitypreference id="97">
+            <name>Shooping</name>
+            <description>Shooping with friends</description>
+            <place>Bren Center</place>
+            <startdate>2017-10-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+</people>
