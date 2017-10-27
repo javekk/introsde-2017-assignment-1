@@ -1,12 +1,12 @@
-#IntroSDE assignment 1
+# IntroSDE assignment 1
 
-##1. Identification
+## 1. Identification
 * Perini Raffaele 196339
 * raffaele.perini@studenti.unitn.it
 
-##2. Project
+## 2. Project
 
-###2.1. Code
+### 2.1. Code
 the Project is structured as follow:
 
  * __default package__: we have all the .xml, .xsd and .md files used for the project. In this package there are:
@@ -25,7 +25,7 @@ the Project is structured as follow:
  * __src.xPathTools__:contains the class for performing the xpath queries:
   * __XPathDoThings__: with this class it is possible to run the xpath objects. In the main we get the arguments from command line in order to perform the 3 instructions of execute.evaluation.
 
-###2.2. Task
+### 2.2. Task
  * __clean__: remove all the built and generated file.
  * __compile__: compile the project
  * __download-ivy__: download ivy
@@ -41,7 +41,7 @@ the Project is structured as follow:
  * __install-ivy__: install ivy
  * __resolve__: downloads the dependencies to your lib folder
 
-##3. Execution
+## 3. Execution
 In order to run this launch this command:
 
   ```
