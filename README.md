@@ -42,7 +42,7 @@ the Project is structured as follow:
  * __resolve__: downloads the dependencies to your lib folder
 
 ## 3. Execution
-In order to run this launch this command:
+In order to run the project launch this command:
 
   ```
   ant execute.evaluation
